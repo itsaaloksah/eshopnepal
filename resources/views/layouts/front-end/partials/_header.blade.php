@@ -51,6 +51,7 @@
 
 <header class="box-shadow-sm rtl __inline-10">
     <!-- Topbar-->
+    /* Remove code of line 55 and code of line 124 to display Language and Phone/Email in Header  */
     {{-- 
         <div class="topbar">
         <div class="container">
